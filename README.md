@@ -14,3 +14,4 @@
 13. git diff - команда позволяет просмотреть те строки которые изменяли или добавляли
 14. git branch develop - создание новой ветки develop
 15. git checkout develop - переключение на ветку develop
+16. git pull origin master - добавляет изменённый код из репозитория
